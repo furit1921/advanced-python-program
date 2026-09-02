@@ -1,3 +1,3 @@
-num = int(input(" js enter a number to print its table : "))
-for i in range(1,51):
+num = 23
+for i in range(1,11):
     print(num ,"x",i,"=",num*i)
